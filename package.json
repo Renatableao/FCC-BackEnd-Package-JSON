@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Renata Barcelos",
+	"version": "0.0.1",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -13,7 +14,7 @@
 		"url": "https://idontknow/todo.git"
 	},
 	"description": "Learning how to manage packages with NPM",
-	"keywords": [ "freecodecamp", "backend", "json" ]
-
+	"keywords": [ "freecodecamp", "backend", "json" ],
+	"license": "MIT"
 }
 
