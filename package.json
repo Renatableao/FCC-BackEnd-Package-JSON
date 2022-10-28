@@ -12,7 +12,8 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"description": "Learning how to manage packages with NPM"
+	"description": "Learning how to manage packages with NPM",
+	"keywords": [ "ffreecodecamp", "backend", "json" ]
 
 }
 
